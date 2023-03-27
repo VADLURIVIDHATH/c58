@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "expo-av": "~13.0.2",
+      "react-navigation": "4.0.10",
+      "react-native-paper": "3.1.1",
+      "@react-navigation/native": "^3.6.2",
+      "@expo/vector-icons": "^13.0.0"
+    }
+  }
